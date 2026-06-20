@@ -1,0 +1,14 @@
+# Result data (kept local) -------------------------------------------------
+*.json
+
+# Logs ---------------------------------------------------------------------
+*.log
+
+# Caches / local artifacts -------------------------------------------------
+__pycache__/
+*.py[cod]
+.claude/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
